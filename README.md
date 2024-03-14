@@ -15,3 +15,6 @@ The coursework progressed through the following stages:
 + Entity Component Architecture: In the third assignment, We reorganized the game codebase to adhere to an Entity Component architecture, enhancing modularity and scalability.
 + Big Array ECS Architecture: We adopted the Big Array version of Entity Component System architecture, optimizing performance and memory usage.
 + Game Programming Patterns: The final assignment, serving as the main submission, tasked them with implementing numerous game programming patterns within the game. We covered a wide range of patterns, excluding the sparse array pattern.
+
+ #####
+  Please note that if you wish to run the project, you may need to redefine the path of SFML libraries. 
