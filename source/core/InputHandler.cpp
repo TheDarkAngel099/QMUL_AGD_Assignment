@@ -105,3 +105,7 @@ if (sf::Keyboard::isKeyPressed(sf::Keyboard::Enter))
 
     return commands;
 }
+
+
+
+

@@ -83,6 +83,8 @@ private:
 	std::vector<std::shared_ptr<Entity>> staticArchetype;
 	ECS ecs;
 
+	//std::unordered_map<EntityType, std::function<void(Entity&, Game&)>> collisionCallbacks;
+
 	std::map<EntityType, std::function<void(std::shared_ptr<Entity>, Game&)>> collisionCallbacks;
 
 };
